@@ -1,3 +1,7 @@
+## Note: Archived repo
+This has been superseded by https://github.com/mautrix/gvoice
+
+
 # Matrix Google Voice Bridge Bot
 
 Since Google Voice has no API, and probably never will, this is a method for "pseudo-bridging" your Matrix server with Google Voice.
